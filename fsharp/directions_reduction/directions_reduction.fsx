@@ -1,5 +1,4 @@
-let isOpposite =
-    function
+let isOpposite = function
     | "NORTH", "SOUTH"
     | "SOUTH", "NORTH"
     | "EAST", "WEST"
